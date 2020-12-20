@@ -31,12 +31,10 @@ CapsLock & 0::Send {F10}
 CapsLock & -::Send {F11}
 CapsLock & =::Send {F12}
 
-CapsLock & Escape::
-If GetKeyState("Shift")
-	Send {~}
-Else
-	Send {``}
-Return
+; Volume
+Control & ,::Send {Volume_Up}
+Control & .::Send {Volume_Down}
+Control & m::Send {Volume_Mute}	
 
 ; Arrow Up
 Capslock & /::
@@ -92,15 +90,4 @@ If GetKeyState("Control")
 	Send ^{Right}
 Else
 	Send {Right}
-Return
-
-; Arrows Alternative
-CapsLock & w::Send {up}
-CapsLock & a::Send {left}
-CapsLock & s::Send {down}
-CapsLock & d::Send {right}
-
-; Volume
-CapsLock & c::Send {Volume_Up}
-CapsLock & x::Send {Volume_Down}
-CapsLock & z::Send {Volume_Mute}
+Return															
