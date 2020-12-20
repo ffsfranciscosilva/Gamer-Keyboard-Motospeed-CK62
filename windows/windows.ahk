@@ -6,18 +6,33 @@ SetWorkingDir %A_ScriptDir% ; Ensures a consistent starting directory.
 
 SetCapsLockState, AlwaysOff
 
-; Text navigation
+; ---------------------------------
+;  TEXT NAVIGATION
+; ---------------------------------
+CapsLock & Backspace::Delete
 CapsLock &  ,:: Send {Del}
-CapsLock &  .:: Send {End}
 CapsLock &  k:: Send {Ins}
-CapsLock &  l:: Send {Home}
 CapsLock & `;:: Send {PgUp}
 CapsLock &  ':: Send {PgDn}
 CapsLock &  [:: Send {PrintScreen}
 CapsLock &  ]:: Send {Pause}
-CapsLock & Backspace::Delete
+CapsLock &  l::
+If GetKeyState("Shift")
+	Send +{Home}
+Else
+	Send {Home}
+Return
+CapsLock &  .::
+If GetKeyState("Shift")
+	Send +{End}
+Else
+	Send {End}
+Return
 
-; Functions
+
+; ---------------------------------
+;  FUNCTIONS
+; ---------------------------------
 CapsLock & 1::Send {F1}
 CapsLock & 2::Send {F2}
 CapsLock & 3::Send {F3}
@@ -31,11 +46,18 @@ CapsLock & 0::Send {F10}
 CapsLock & -::Send {F11}
 CapsLock & =::Send {F12}
 
-; Volume
+
+; ---------------------------------
+;  VOLUME
+; ---------------------------------
 Control & ,::Send {Volume_Up}
 Control & .::Send {Volume_Down}
 Control & m::Send {Volume_Mute}	
 
+
+; ---------------------------------
+;  ARROWS
+; ---------------------------------
 ; Arrow Up
 Capslock & /::
 If GetKeyState("Shift")
