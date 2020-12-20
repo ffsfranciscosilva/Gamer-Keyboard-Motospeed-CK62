@@ -116,3 +116,14 @@ If GetKeyState("Control")
 Else
 	Send {Right}
 Return
+
+; ---------------------------------
+;  DIGITATION
+; ---------------------------------
+
+CapsLock & c::		     ; Ç ç
+If GetKeyState("Shift")
+	Send {U+00C7}
+Else
+	Send {U+00E7}
+Return
