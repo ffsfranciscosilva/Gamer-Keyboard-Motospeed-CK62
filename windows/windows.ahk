@@ -1,18 +1,21 @@
-#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
-; #Warn  ; Enable warnings to assist with detecting common errors.
-SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
-SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+#NoEnv ; Recommended for performance and compatibility with future AutoHotkey releases.
+#Warn  ; Enable warnings to assist with detecting common errors.
+
+SendMode Input ; Recommended for new scripts due to its superior speed and reliability.
+SetWorkingDir %A_ScriptDir% ; Ensures a consistent starting directory.
 
 SetCapsLockState, AlwaysOff
 
-CapsLock & ,:: Send {Del}
-CapsLock & .:: Send {End}
-CapsLock & k:: Send {Ins}
-CapsLock & l:: Send {Home}
+CapsLock &  ,:: Send {Del}
+CapsLock &  .:: Send {End}
+CapsLock &  k:: Send {Ins}
+CapsLock &  l:: Send {Home}
 CapsLock & `;:: Send {PgUp}
-CapsLock & ':: Send {PgDn}
-CapsLock & [:: Send {PrintScreen}
-CapsLock & ]::Send {Pause}
+CapsLock &  ':: Send {PgDn}
+CapsLock &  [:: Send {PrintScreen}
+CapsLock &  ]:: Send {Pause}
+
+CapsLock & Backspace::Delete
 
 ; Functions
 CapsLock & 1::Send {F1}
@@ -27,8 +30,6 @@ CapsLock & 9::Send {F9}
 CapsLock & 0::Send {F10}
 CapsLock & -::Send {F11}
 CapsLock & =::Send {F12}
-
-CapsLock & Backspace::Delete
 
 CapsLock & Escape::
 If GetKeyState("Shift")
