@@ -9,12 +9,7 @@ SetWorkingDir %A_ScriptDir% ; Ensures a consistent starting directory.
 ; ---------------------------------
 SetCapsLockState, AlwaysOff
 
-Shift & CapsLock::
-If GetKeyState("Control")
-	SetCapsLockState, AlwaysOff
-Else
-	SetCapsLockState, AlwaysOn
-Return
+Control & Shift:: SetCapsLockState, % GetKeyState("CapsLock","T") ? "AlwaysOff" : "AlwaysOn"
 
 
 ; ---------------------------------
@@ -27,12 +22,14 @@ CapsLock & `;:: Send {PgUp}
 CapsLock &  ':: Send {PgDn}
 CapsLock &  [:: Send {PrintScreen}
 CapsLock &  ]:: Send {Pause}
+
 CapsLock &  l::
 If GetKeyState("Shift")
 	Send +{Home}
 Else
 	Send {Home}
 Return
+
 CapsLock &  .::
 If GetKeyState("Shift")
 	Send +{End}
@@ -79,9 +76,6 @@ Return
 
 ; Arrow Left
 Capslock & RAlt::
-If GetKeyState("Shift") && GetKeyState("LWin")
-	Send +{Home}
-Else
 If GetKeyState("Shift") && GetKeyState("Control")
 	Send +^{Left}
 Else
