@@ -67,7 +67,7 @@ Control & m::Send {Volume_Mute}
 ;  ARROWS
 ; ---------------------------------
 
-; Arrow Up
+; ARROW UP
 Capslock & /::
 If GetKeyState("Shift")
 	Send +{Up}
@@ -75,7 +75,7 @@ Else
 	Send {Up}
 Return
 
-; Arrow Down
+; ARROW DOWN
 Capslock & AppsKey::
 If GetKeyState("Shift")
 	Send +{Down}
@@ -83,7 +83,7 @@ Else
 	Send {Down}
 Return
 
-; Arrow Left
+; ARROW LEFT
 Capslock & RAlt::
 If GetKeyState("Shift") && GetKeyState("Control")
 	Send +^{Left}
@@ -100,7 +100,7 @@ Else
 	Send {Left}
 Return
 
-; Arrow Right
+; ARROW Right
 Capslock & RControl::
 If GetKeyState("Shift") && GetKeyState("Control")
 	Send +^{Right}
