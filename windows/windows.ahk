@@ -6,6 +6,7 @@ SetWorkingDir %A_ScriptDir% ; Ensures a consistent starting directory.
 
 SetCapsLockState, AlwaysOff
 
+; Text navigation
 CapsLock &  ,:: Send {Del}
 CapsLock &  .:: Send {End}
 CapsLock &  k:: Send {Ins}
@@ -14,7 +15,6 @@ CapsLock & `;:: Send {PgUp}
 CapsLock &  ':: Send {PgDn}
 CapsLock &  [:: Send {PrintScreen}
 CapsLock &  ]:: Send {Pause}
-
 CapsLock & Backspace::Delete
 
 ; Functions
