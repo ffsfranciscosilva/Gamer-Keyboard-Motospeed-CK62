@@ -13,7 +13,7 @@ Control & Shift:: SetCapsLockState, % GetKeyState("CapsLock","T") ? "AlwaysOff" 
 
 
 ; ---------------------------------
-;  TEXT NAVIGATION
+;  UTILITIES
 ; ---------------------------------
 CapsLock & Backspace::Delete
 CapsLock &  ,:: Send {Del}
@@ -66,12 +66,21 @@ Control & m::Send {Volume_Mute}
 ; ---------------------------------
 ;  ARROWS
 ; ---------------------------------
+
 ; Arrow Up
 Capslock & /::
 If GetKeyState("Shift")
 	Send +{Up}
 Else
 	Send {Up}
+Return
+
+; Arrow Down
+Capslock & AppsKey::
+If GetKeyState("Shift")
+	Send +{Down}
+Else
+	Send {Down}
 Return
 
 ; Arrow Left
@@ -91,19 +100,8 @@ Else
 	Send {Left}
 Return
 
-; Arrow Down
-Capslock & AppsKey::
-If GetKeyState("Shift")
-	Send +{Down}
-Else
-	Send {Down}
-Return
-
 ; Arrow Right
 Capslock & RControl::
-If GetKeyState("Shift") && GetKeyState("LWin")
-	Send +{End}
-Else
 If GetKeyState("Shift") && GetKeyState("Control")
 	Send +^{Right}
 Else
