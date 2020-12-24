@@ -1,0 +1,30 @@
+{
+    "type": "script",
+    "description": "PrintScreen",
+    "store": {},
+    "modes": [
+        3
+    ],
+    "usageCount": 26,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<alt>"
+        ],
+        "hotKey": "\ufe51"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

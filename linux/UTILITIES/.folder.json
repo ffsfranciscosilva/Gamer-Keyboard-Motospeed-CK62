@@ -1,0 +1,25 @@
+{
+    "type": "folder",
+    "title": "UTILITIES",
+    "modes": [],
+    "usageCount": 0,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<alt>"
+        ],
+        "hotKey": "k"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

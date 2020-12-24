@@ -1,0 +1,1 @@
+keyboard.send_keys("<print_screen>")
