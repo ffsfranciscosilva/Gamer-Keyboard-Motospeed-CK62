@@ -1,1 +1,1 @@
-keyboard.send_keys("<print_screen>")
+keyboard.send_key("<shift>+<print_screen>")
