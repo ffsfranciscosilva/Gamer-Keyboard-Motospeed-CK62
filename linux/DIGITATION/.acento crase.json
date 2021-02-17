@@ -19,7 +19,7 @@
     },
     "hotkey": {
         "modifiers": [
-            "<ctrl>",
+            "<alt>",
             "<shift>"
         ],
         "hotKey": "\ufe51"

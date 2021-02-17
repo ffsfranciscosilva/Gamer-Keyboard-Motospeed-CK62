@@ -5,7 +5,7 @@
     "modes": [
         3
     ],
-    "usageCount": 6,
+    "usageCount": 9,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -20,7 +20,7 @@
     "hotkey": {
         "modifiers": [
             "<alt>",
-            "<ctrl>"
+            "<shift>"
         ],
         "hotKey": "w"
     },

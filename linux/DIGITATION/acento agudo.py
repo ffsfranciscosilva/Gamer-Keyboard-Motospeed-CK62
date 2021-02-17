@@ -1,1 +1,1 @@
-keyboard.send_key('´',repeat=1)
+keyboard.send_key('´',repeat=1)´

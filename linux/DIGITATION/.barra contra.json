@@ -20,7 +20,7 @@
     "hotkey": {
         "modifiers": [
             "<alt>",
-            "<ctrl>"
+            "<shift>"
         ],
         "hotKey": "q"
     },
