@@ -1,6 +1,6 @@
 {
     "type": "script",
-    "description": "Pause",
+    "description": "ponto e virgula",
     "store": {},
     "modes": [
         3
@@ -18,10 +18,8 @@
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [
-            "<alt>"
-        ],
-        "hotKey": "["
+        "modifiers": [],
+        "hotKey": "\u00e7"
     },
     "filter": {
         "regex": null,

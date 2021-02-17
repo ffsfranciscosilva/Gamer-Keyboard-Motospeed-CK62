@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "Pause",
+    "description": "aspas simples",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 6,
+    "usageCount": 149,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -18,10 +18,8 @@
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [
-            "<alt>"
-        ],
-        "hotKey": "["
+        "modifiers": [],
+        "hotKey": "\ufe53"
     },
     "filter": {
         "regex": null,

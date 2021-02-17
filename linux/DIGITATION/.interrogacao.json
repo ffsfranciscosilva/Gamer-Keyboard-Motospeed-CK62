@@ -1,6 +1,6 @@
 {
     "type": "script",
-    "description": "Pause",
+    "description": "interrogacao",
     "store": {},
     "modes": [
         3
@@ -19,9 +19,10 @@
     },
     "hotkey": {
         "modifiers": [
-            "<alt>"
+            "<alt>",
+            "<ctrl>"
         ],
-        "hotKey": "["
+        "hotKey": "w"
     },
     "filter": {
         "regex": null,

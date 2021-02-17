@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "Pause",
+    "description": "acento til",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 6,
+    "usageCount": 51,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -19,9 +19,9 @@
     },
     "hotkey": {
         "modifiers": [
-            "<alt>"
+            "<ctrl>"
         ],
-        "hotKey": "["
+        "hotKey": "\ufe53"
     },
     "filter": {
         "regex": null,

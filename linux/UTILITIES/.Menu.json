@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "Pause",
+    "description": "Menu",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 6,
+    "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -21,7 +21,7 @@
         "modifiers": [
             "<alt>"
         ],
-        "hotKey": "["
+        "hotKey": "<down>"
     },
     "filter": {
         "regex": null,

@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "Pause",
+    "description": "acento crase",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 6,
+    "usageCount": 7,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -19,9 +19,10 @@
     },
     "hotkey": {
         "modifiers": [
-            "<alt>"
+            "<ctrl>",
+            "<shift>"
         ],
-        "hotKey": "["
+        "hotKey": "\ufe51"
     },
     "filter": {
         "regex": null,

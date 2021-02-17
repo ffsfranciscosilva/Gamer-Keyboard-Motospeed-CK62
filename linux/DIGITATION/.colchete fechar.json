@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "Pause",
+    "description": "colchete fechar",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 6,
+    "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -18,9 +18,7 @@
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [
-            "<alt>"
-        ],
+        "modifiers": [],
         "hotKey": "["
     },
     "filter": {

@@ -1,6 +1,6 @@
 {
     "type": "script",
-    "description": "HomeShift",
+    "description": "c cedilha minusculo",
     "store": {},
     "modes": [
         3
@@ -19,10 +19,9 @@
     },
     "hotkey": {
         "modifiers": [
-            "<alt>",
-            "<shift>"
+            "<alt>"
         ],
-        "hotKey": "l"
+        "hotKey": "c"
     },
     "filter": {
         "regex": null,
