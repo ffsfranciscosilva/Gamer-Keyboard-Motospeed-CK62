@@ -1,0 +1,28 @@
+{
+    "type": "script",
+    "description": "01 aspas simples",
+    "store": {},
+    "modes": [
+        3
+    ],
+    "usageCount": 150,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [],
+        "hotKey": "\ufe53"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

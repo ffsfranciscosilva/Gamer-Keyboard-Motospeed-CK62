@@ -1,13 +1,8 @@
 {
-    "type": "script",
-    "description": "chave fechar",
-    "store": {},
-    "modes": [
-        3
-    ],
+    "type": "folder",
+    "title": "ACCENTORS",
+    "modes": [],
     "usageCount": 0,
-    "prompt": false,
-    "omitTrigger": false,
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [],
@@ -18,10 +13,8 @@
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [
-            "<shift>"
-        ],
-        "hotKey": "["
+        "modifiers": [],
+        "hotKey": null
     },
     "filter": {
         "regex": null,

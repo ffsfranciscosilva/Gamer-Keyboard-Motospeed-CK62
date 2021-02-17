@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "acento agudo",
+    "description": "02 acento crase",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 16,
+    "usageCount": 9,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -19,7 +19,8 @@
     },
     "hotkey": {
         "modifiers": [
-            "<alt>"
+            "<alt>",
+            "<shift>"
         ],
         "hotKey": "\ufe51"
     },

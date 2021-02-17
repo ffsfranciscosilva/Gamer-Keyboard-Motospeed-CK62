@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "colchete abrir",
+    "description": "03 barra",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 3,
+    "usageCount": 27,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -18,8 +18,10 @@
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [],
-        "hotKey": "\ufe51"
+        "modifiers": [
+            "<alt>"
+        ],
+        "hotKey": "q"
     },
     "filter": {
         "regex": null,

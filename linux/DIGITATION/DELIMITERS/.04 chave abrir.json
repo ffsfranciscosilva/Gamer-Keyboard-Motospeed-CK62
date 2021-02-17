@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "ponto e virgula",
+    "description": "04 chave abrir",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 6,
+    "usageCount": 1,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -18,8 +18,10 @@
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [],
-        "hotKey": "\u00e7"
+        "modifiers": [
+            "<shift>"
+        ],
+        "hotKey": "\ufe51"
     },
     "filter": {
         "regex": null,

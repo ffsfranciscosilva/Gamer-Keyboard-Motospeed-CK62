@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "acento circunflexo",
+    "description": "03 dois pontos",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 187,
+    "usageCount": 7,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -19,10 +19,9 @@
     },
     "hotkey": {
         "modifiers": [
-            "<alt>",
             "<shift>"
         ],
-        "hotKey": "\ufe53"
+        "hotKey": "\u00e7"
     },
     "filter": {
         "regex": null,

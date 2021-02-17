@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "interrogacao",
+    "description": "02 colchete fechar",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 9,
+    "usageCount": 1,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -18,11 +18,8 @@
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [
-            "<alt>",
-            "<shift>"
-        ],
-        "hotKey": "w"
+        "modifiers": [],
+        "hotKey": "["
     },
     "filter": {
         "regex": null,

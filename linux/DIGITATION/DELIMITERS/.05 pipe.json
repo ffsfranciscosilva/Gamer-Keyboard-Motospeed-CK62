@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "c cedilha minusculo",
+    "description": "05 pipe",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 6,
+    "usageCount": 1,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -19,9 +19,9 @@
     },
     "hotkey": {
         "modifiers": [
-            "<alt>"
+            "<shift>"
         ],
-        "hotKey": "c"
+        "hotKey": "]"
     },
     "filter": {
         "regex": null,

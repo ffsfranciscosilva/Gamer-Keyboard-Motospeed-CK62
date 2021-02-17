@@ -1,6 +1,6 @@
 {
     "type": "script",
-    "description": "dois pontos",
+    "description": "03 barra invertida",
     "store": {},
     "modes": [
         3
@@ -18,10 +18,8 @@
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [
-            "<shift>"
-        ],
-        "hotKey": "\u00e7"
+        "modifiers": [],
+        "hotKey": "]"
     },
     "filter": {
         "regex": null,

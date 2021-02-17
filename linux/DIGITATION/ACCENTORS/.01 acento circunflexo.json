@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "barra",
+    "description": "01 acento circunflexo",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 3,
+    "usageCount": 190,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -18,8 +18,11 @@
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [],
-        "hotKey": "]"
+        "modifiers": [
+            "<alt>",
+            "<shift>"
+        ],
+        "hotKey": "\ufe53"
     },
     "filter": {
         "regex": null,

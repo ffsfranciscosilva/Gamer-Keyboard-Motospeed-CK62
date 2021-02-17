@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "acento crase",
+    "description": "01 acento til",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 7,
+    "usageCount": 59,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -19,10 +19,9 @@
     },
     "hotkey": {
         "modifiers": [
-            "<alt>",
-            "<shift>"
+            "<alt>"
         ],
-        "hotKey": "\ufe51"
+        "hotKey": "\ufe53"
     },
     "filter": {
         "regex": null,

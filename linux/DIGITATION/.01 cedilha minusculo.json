@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "colchete fechar",
+    "description": "01 cedilha minusculo",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 0,
+    "usageCount": 7,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -18,8 +18,10 @@
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [],
-        "hotKey": "["
+        "modifiers": [
+            "<alt>"
+        ],
+        "hotKey": "c"
     },
     "filter": {
         "regex": null,

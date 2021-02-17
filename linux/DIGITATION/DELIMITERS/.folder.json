@@ -1,13 +1,8 @@
 {
-    "type": "script",
-    "description": "aspas simples",
-    "store": {},
-    "modes": [
-        3
-    ],
-    "usageCount": 149,
-    "prompt": false,
-    "omitTrigger": false,
+    "type": "folder",
+    "title": "DELIMITERS",
+    "modes": [],
+    "usageCount": 0,
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [],
@@ -19,7 +14,7 @@
     },
     "hotkey": {
         "modifiers": [],
-        "hotKey": "\ufe53"
+        "hotKey": null
     },
     "filter": {
         "regex": null,
