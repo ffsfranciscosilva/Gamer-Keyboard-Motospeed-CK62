@@ -44,6 +44,16 @@ Para essa solução utilizamos os programas AutoKey e AutoHotKey, compatíveis c
 - **;** = *ç*
 - **?** = *Alt + w*
 
+#### Delimitadores
+ - **"** = *Shift + ~*
+ - **'** = *~*
+ - **[** = *´*
+ - **]** = *[*
+ - **\\** = *]*
+ - **/** = *Alt + q*
+ - **{** = *Shift + ´*
+ - **}** = *Shift + [*
+ - **|** = *Shift + ]*
 
 ## REFERÊNCIAS
 
