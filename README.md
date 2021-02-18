@@ -6,6 +6,21 @@ Por ser um teclado pequeno, e com uma quantidade de teclas reduzidas não tens c
  
 Para essa solução utilizamos os programas AutoKey e AutoHotKey, compatíveis com Linux e Windows, respectivamente. Com esses programas podemos criar atalhos de teclados e atalhos de textos.
 
+## Atalhos customizados
+### Funções Fn
+
+ - F1 = Ctrl + 1
+ - F2 = Ctrl + 2
+ - F3 = Ctrl + 3
+ - F4 = Ctrl + 4
+ - F5 = Ctrl + 5
+ - F6 = Ctrl + 6
+ - F7 = Ctrl + 7
+ - F8 = Ctrl + 8
+ - F9 = Ctrl + 9
+ - F10 = Ctrl + 0
+ - F11 = Ctrl + -
+ - F12 = Ctrl + =
 
 ## REFERÊNCIAS
 
