@@ -7,6 +7,8 @@ Por ser um teclado pequeno, e com uma quantidade de teclas reduzidas não tens c
 Para essa solução utilizamos os programas AutoKey e AutoHotKey, para os sistemas Linux e Windows, respectivamente. Com esses programas podemos criar atalhos de teclados e atalhos de textos.
  
 Para o nosso caso a customização das teclas ficaram como listado abaixo. É muito importante ressaltar que optamos por **usar o layout em Português(Brasil) e  as teclas das setas sempre ativas no teclado**.
+
+Este solução foi criada apenas para uso pessoal e pode ou não funcionar com o seu dispositivo. Use por sua conta e risco.
  
 ## Atalhos customizados
 ### Funções
