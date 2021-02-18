@@ -59,6 +59,9 @@ Para essa solução utilizamos os programas AutoKey e AutoHotKey, compatíveis c
  - **ç** = *Alt + c*
  - **Ç** = *Alt + Shift + c*
 
+#### Outros
+- **Crl + l** = *Alt + l*
+
 ## REFERÊNCIAS
 
 https://medium.com/@marcelxsilva/esta-publicacao-ser%C3%A1-atualizada-quando-houver-novos-recursos-no-teclado-89afed3fa372
