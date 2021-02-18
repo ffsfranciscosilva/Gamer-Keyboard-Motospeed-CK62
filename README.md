@@ -8,59 +8,59 @@ Para essa solução utilizamos os programas AutoKey e AutoHotKey, compatíveis c
 
 ## Atalhos customizados
 ### Funções
- - **F1** = *Ctrl + 1*
- - **F2** = *Ctrl + 2*
- - **F3** = *Ctrl + 3*
- - **F4** = *Ctrl + 4*
- - **F5** = *Ctrl + 5*
- - **F6** = *Ctrl + 6*
- - **F7** = *Ctrl + 7*
- - **F8** = *Ctrl + 8*
- - **F9** = *Ctrl + 9*
- - **F10** = *Ctrl + 0*
- - **F11** = *Ctrl + -*
- - **F12** = *Ctrl + =*
+ - **F1** = *ctrl + 1*
+ - **F2** = *ctrl + 2*
+ - **F3** = *ctrl + 3*
+ - **F4** = *ctrl + 4*
+ - **F5** = *ctrl + 5*
+ - **F6** = *ctrl + 6*
+ - **F7** = *ctrl + 7*
+ - **F8** = *ctrl + 8*
+ - **F9** = *ctrl + 9*
+ - **F10** = *ctrl + 0*
+ - **F11** = *ctrl + -*
+ - **F12** = *ctrl + =*
 
  ### Ultilitarios
- - **Del** = *Ctrl + ,*
- - **End** = *Ctrl + .*
- - **End + Shift** = *Ctrl + Shift + .*
- - **Home** = *Ctrl + l*
- - **Home + Shift** = *Ctrl + Shift + l*
- - **Insert** = *Ctrl + k*
- - **Menu** = *Ctrl + down*
- - **Pause** = *Ctrl + [*
- - **PgDn** = *Ctrl + \~*
- - **PgUp** = *Ctrl + ç*
- - **PrintScreen** = *Ctrl + ´*
+ - **Del** = *ctrl + ,*
+ - **End** = *ctrl + .*
+ - **End + Shift** = *ctrl + shift + .*
+ - **Home** = *ctrl + l*
+ - **Home + Shift** = *ctrl + shift + l*
+ - **Insert** = *ctrl + k*
+ - **Menu** = *ctrl + down*
+ - **Pause** = *ctrl + [*
+ - **PgDn** = *ctrl + \~*
+ - **PgUp** = *ctrl + ç*
+ - **PrintScreen** = *ctrl + ´*
 
 ### Digitação
 #### Acentos
-- **~** = *Alt + \~*
-- **^** = *Alt + Shift + \~*
-- **´** = *Alt + ´*
-- **`** = *Alt + Shift + ´*
-- **:** = *Shift + ç*
+- **~** = *alt + \~*
+- **^** = *alt + shift + \~*
+- **´** = *alt + ´*
+- **`** = *alt + shift + ´*
+- **:** = *shift + ç*
 - **;** = *ç*
-- **?** = *Alt + w*
+- **?** = *alt + w*
 
 #### Delimitadores
- - **"** = *Shift + \~*
+ - **"** = *shift + \~*
  - **'** = *\~*
  - **[** = *´*
  - **]** = *[*
  - **\\** = *]*
- - **/** = *Alt + q*
- - **{** = *Shift + ´*
- - **}** = *Shift + [*
- - **|** = *Shift + ]*
+ - **/** = *alt + q*
+ - **{** = *shift + ´*
+ - **}** = *shift + [*
+ - **|** = *shift + ]*
   
 #### Letras
- - **ç** = *Alt + c*
- - **Ç** = *Alt + Shift + c*
+ - **ç** = *alt + c*
+ - **Ç** = *alt + shift + c*
 
 #### Outros
-- **Crl + l** = *Alt + l*
+- **Ctrl + l** = *alt + l*
 
 ## REFERÊNCIAS
 
