@@ -26,18 +26,18 @@ Para essa solução utilizamos os programas AutoKey e AutoHotKey, compatíveis c
  - **End** = *Ctrl + .*
  - **End + Shift** = *Ctrl + Shift + .*
  - **Home** = *Ctrl + l*
- - **Home + Shift** = *Ctrl + Shift + l *
+ - **Home + Shift** = *Ctrl + Shift + l*
  - **Insert** = *Ctrl + k*
  - **Menu** = *Ctrl + down*
  - **Pause** = *Ctrl + [*
- - **PgDn** = *Ctrl + ~*
+ - **PgDn** = *Ctrl + \~*
  - **PgUp** = *Ctrl + ç*
  - **PrintScreen** = *Ctrl + ´*
 
 ### Digitação
 #### Acentos
-- **~** = *Alt + ~*
-- **^** = *Alt + Shift + ~*
+- **~** = *Alt + \~*
+- **^** = *Alt + Shift + \~*
 - **´** = *Alt + ´*
 - **`** = *Alt + Shift + ´*
 - **:** = *Shift + ç*
@@ -45,8 +45,8 @@ Para essa solução utilizamos os programas AutoKey e AutoHotKey, compatíveis c
 - **?** = *Alt + w*
 
 #### Delimitadores
- - **"** = *Shift + ~*
- - **'** = *~*
+ - **"** = *Shift + \~*
+ - **'** = *\~*
  - **[** = *´*
  - **]** = *[*
  - **\\** = *]*
