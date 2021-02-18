@@ -8,7 +8,6 @@ Para essa solução utilizamos os programas AutoKey e AutoHotKey, compatíveis c
 
 ## Atalhos customizados
 ### Funções Fn
-
  - F1 = Ctrl + 1
  - F2 = Ctrl + 2
  - F3 = Ctrl + 3
@@ -21,6 +20,19 @@ Para essa solução utilizamos os programas AutoKey e AutoHotKey, compatíveis c
  - F10 = Ctrl + 0
  - F11 = Ctrl + -
  - F12 = Ctrl + =
+
+ ### Ultilitarios
+ - Del = Ctrl + ,
+ - End = Ctrl + .
+ - End Shift = Ctrl + Shift + .
+ - Home = Ctrl + l
+ - Home Shift = Ctrl + Shift + l 
+ - Insert = Ctrl + k
+ - Menu = Ctrl + down
+ - Pause = Ctrl + [
+ - PgDn = Ctrl + ~
+ - PgUp = Ctrl + ç
+ - PrintScreen = Ctrl + ´
 
 ## REFERÊNCIAS
 
