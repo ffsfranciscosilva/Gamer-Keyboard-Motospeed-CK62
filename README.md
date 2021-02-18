@@ -54,6 +54,10 @@ Para essa solução utilizamos os programas AutoKey e AutoHotKey, compatíveis c
  - **{** = *Shift + ´*
  - **}** = *Shift + [*
  - **|** = *Shift + ]*
+  
+#### Letras
+ - **ç** = *Alt + c*
+ - **Ç** = *Alt + Shift + c*
 
 ## REFERÊNCIAS
 
