@@ -34,6 +34,15 @@ Para essa solução utilizamos os programas AutoKey e AutoHotKey, compatíveis c
  - **PgUp** = *Ctrl + ç*
  - **PrintScreen** = *Ctrl + ´*
 
+### Digitação
+#### Acentos
+- **~** = *Alt + ~*
+- **^** = *Alt + Shift + ~*
+- **´** = *Alt + ´*
+- **`** = *Alt + Shift + ´*
+- **:** = *Shift + ç*
+- **;** = *ç*
+- **?** = *Alt + w*
 
 
 ## REFERÊNCIAS
