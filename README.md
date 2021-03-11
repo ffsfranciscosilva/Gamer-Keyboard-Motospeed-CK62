@@ -12,18 +12,18 @@ Este solução foi criada apenas para uso pessoal e pode ou não funcionar com o
  
 ## Atalhos customizados
 ### Funções
- - **F1** = *ctrl + 1*
- - **F2** = *ctrl + 2*
- - **F3** = *ctrl + 3*
- - **F4** = *ctrl + 4*
- - **F5** = *ctrl + 5*
- - **F6** = *ctrl + 6*
- - **F7** = *ctrl + 7*
- - **F8** = *ctrl + 8*
- - **F9** = *ctrl + 9*
- - **F10** = *ctrl + 0*
- - **F11** = *ctrl + -*
- - **F12** = *ctrl + =*
+ - **F1** = *alt + 1*
+ - **F2** = *alt + 2*
+ - **F3** = *alt + 3*
+ - **F4** = *alt + 4*
+ - **F5** = *alt + 5*
+ - **F6** = *alt + 6*
+ - **F7** = *alt + 7*
+ - **F8** = *alt + 8*
+ - **F9** = *alt + 9*
+ - **F10** = *alt + 0*
+ - **F11** = *alt + -*
+ - **F12** = *alt + =*
  
 ### Utilitários
  - **Del** = *ctrl + ,*
