@@ -4,7 +4,7 @@ Scripts para melhorar o uso do teclado mecânico MotoSpeed CK62.
  
 Por ser um teclado pequeno, e com uma quantidade de teclas reduzidas não tens como todas as teclas estarem disponíveis para uso assim que pressionadas, sendo assim é necessário primeiramente habilitá-las pressionando um conjunto de teclas específicas. Referências que podem ajudar ao final.
 
-Para essa solução utilizamos os programas AutoKey e AutoHotKey, para os sistemas Linux e Windows, respectivamente. Com esses programas podemos criar atalhos de teclados e atalhos de textos.
+Para essa solução utilizamos o programa AutoKey para sistemas Linux. Com esse programa podemos criar atalhos de teclados e atalhos de textos.
  
 Para o nosso caso a customização das teclas ficaram como listado abaixo. É muito importante ressaltar que optamos por **usar o layout em Português(Brasil) e  as teclas das setas sempre ativas no teclado**.
 
@@ -67,8 +67,8 @@ Este solução foi criada apenas para uso pessoal e pode ou não funcionar com o
  - **Ctrl + l** = *alt + l*
  
 ## Instalação
-Os dois programas Autokey e AutoHotkey apresentam formas diferentes de instalação, configuração e criação dos scripts. Mesmo com o AutoHotKey junto ao Windows apresentando algumas vantagens, podemos alcançar nosso objetivo nos dois sistemas.
- 
+O programa Autokey apresenta formas diferentes de instalação, configuração e criação dos scripts.
+
 ### Linux, AutoKey
 Abrir o terminal e usar o comando abaixo, ou pode-se optar por instalar pela central de software:
  
