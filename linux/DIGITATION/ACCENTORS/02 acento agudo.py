@@ -1,1 +1,0 @@
-keyboard.send_key('´',repeat=1)

@@ -1,28 +1,30 @@
 {
-    "type": "script",
-    "description": "01 aspas simples",
-    "store": {},
+    "usageCount": 158, 
+    "omitTrigger": false, 
+    "prompt": false, 
+    "description": "01 aspas simples", 
+    "abbreviation": {
+        "wordChars": "[\\w]", 
+        "abbreviations": [], 
+        "immediate": false, 
+        "ignoreCase": false, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "hotkey": {
+        "hotKey": "\ufe53", 
+        "modifiers": [
+            "<alt>"
+        ]
+    }, 
     "modes": [
         3
-    ],
-    "usageCount": 150,
-    "prompt": false,
-    "omitTrigger": false,
-    "showInTrayMenu": false,
-    "abbreviation": {
-        "abbreviations": [],
-        "backspace": true,
-        "ignoreCase": false,
-        "immediate": false,
-        "triggerInside": false,
-        "wordChars": "[\\w]"
-    },
-    "hotkey": {
-        "modifiers": [],
-        "hotKey": "\ufe53"
-    },
+    ], 
+    "showInTrayMenu": false, 
     "filter": {
-        "regex": null,
+        "regex": null, 
         "isRecursive": false
-    }
+    }, 
+    "type": "script", 
+    "store": {}
 }

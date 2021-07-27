@@ -40,28 +40,20 @@ Este solução foi criada apenas para uso pessoal e pode ou não funcionar com o
  
 ### Digitação
 #### Acentos
- - **~** = *alt + \~*
- - **^** = *alt + shift + \~*
- - **´** = *alt + ´*
- - **`** = *alt + shift + ´*
- - **:** = *shift + ç*
- - **;** = *ç*
- - **?** = *alt + w*
+ - **:** = *alt + shift + ç*
+ - **;** = *alt + ç*
+ - **?** = *alt + shift + up*
  
 #### Delimitadores
- - **"** = *shift + \~*
- - **'** = *\~*
- - **[** = *´*
- - **]** = *[*
- - **\\** = *]*
- - **/** = *alt + q*
- - **{** = *shift + ´*
- - **}** = *shift + [*
- - **|** = *shift + ]*
-
-#### Letras
- - **ç** = *alt + c*
- - **Ç** = *alt + shift + c*
+ - **"** = *alt + shift + \~*
+ - **'** = *alt + \~*
+ - **[** = *alt + ´*
+ - **]** = *alt + [*
+ - **\\** = *alt + ]*
+ - **/** = *alt + up*
+ - **{** = *alt + shift + ´*
+ - **}** = *alt + shift + [*
+ - **|** = *alt + shift + ]*
 
  
 ## Instalação

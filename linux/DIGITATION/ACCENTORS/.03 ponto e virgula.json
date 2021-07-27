@@ -1,28 +1,30 @@
 {
-    "type": "script",
-    "description": "03 ponto e virgula",
-    "store": {},
+    "usageCount": 15, 
+    "omitTrigger": false, 
+    "prompt": false, 
+    "description": "03 ponto e virgula", 
+    "abbreviation": {
+        "wordChars": "[\\w]", 
+        "abbreviations": [], 
+        "immediate": false, 
+        "ignoreCase": false, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "hotkey": {
+        "hotKey": "\u00e7", 
+        "modifiers": [
+            "<alt>"
+        ]
+    }, 
     "modes": [
         3
-    ],
-    "usageCount": 9,
-    "prompt": false,
-    "omitTrigger": false,
-    "showInTrayMenu": false,
-    "abbreviation": {
-        "abbreviations": [],
-        "backspace": true,
-        "ignoreCase": false,
-        "immediate": false,
-        "triggerInside": false,
-        "wordChars": "[\\w]"
-    },
-    "hotkey": {
-        "modifiers": [],
-        "hotKey": "\u00e7"
-    },
+    ], 
+    "showInTrayMenu": false, 
     "filter": {
-        "regex": null,
+        "regex": null, 
         "isRecursive": false
-    }
+    }, 
+    "type": "script", 
+    "store": {}
 }

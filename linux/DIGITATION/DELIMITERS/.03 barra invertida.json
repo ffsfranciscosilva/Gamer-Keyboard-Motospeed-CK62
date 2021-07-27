@@ -1,28 +1,30 @@
 {
-    "type": "script",
-    "description": "03 barra invertida",
-    "store": {},
+    "usageCount": 6, 
+    "omitTrigger": false, 
+    "prompt": false, 
+    "description": "03 barra invertida", 
+    "abbreviation": {
+        "wordChars": "[\\w]", 
+        "abbreviations": [], 
+        "immediate": false, 
+        "ignoreCase": false, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "hotkey": {
+        "hotKey": "]", 
+        "modifiers": [
+            "<alt>"
+        ]
+    }, 
     "modes": [
         3
-    ],
-    "usageCount": 4,
-    "prompt": false,
-    "omitTrigger": false,
-    "showInTrayMenu": false,
-    "abbreviation": {
-        "abbreviations": [],
-        "backspace": true,
-        "ignoreCase": false,
-        "immediate": false,
-        "triggerInside": false,
-        "wordChars": "[\\w]"
-    },
-    "hotkey": {
-        "modifiers": [],
-        "hotKey": "]"
-    },
+    ], 
+    "showInTrayMenu": false, 
     "filter": {
-        "regex": null,
+        "regex": null, 
         "isRecursive": false
-    }
+    }, 
+    "type": "script", 
+    "store": {}
 }
