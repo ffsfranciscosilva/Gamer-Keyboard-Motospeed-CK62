@@ -26,17 +26,17 @@ Este solução foi criada apenas para uso pessoal e pode ou não funcionar com o
  - **F12** = *alt + =*
  
 ### Utilitários
- - **Del** = *ctrl + ,*
- - **End** = *ctrl + .*
- - **End + Shift** = *ctrl + shift + .*
- - **Home** = *ctrl + l*
- - **Home + Shift** = *ctrl + shift + l*
- - **Insert** = *ctrl + k*
- - **Menu** = *ctrl + down*
- - **Pause** = *ctrl + [*
- - **PgDn** = *ctrl + \~*
- - **PgUp** = *ctrl + ç*
- - **PrintScreen** = *ctrl + ´*
+ - **Del** = *alt + ctrl + ,*
+ - **End** = *alt + ctrl + .*
+ - **End + Shift** = *alt + ctrl + shift + .*
+ - **Home** = *alt + ctrl + l*
+ - **Home + Shift** = *alt + ctrl + shift + l*
+ - **Insert** = *alt + ctrl + k*
+ - **Menu** = *alt + ctrl + down*
+ - **Pause** = *alt + ctrl + [*
+ - **PgDn** = *alt + ctrl + \~*
+ - **PgUp** = *alt + ctrl + ç*
+ - **PrintScreen** = *alt + ctrl + ´*
  
 ### Digitação
 #### Acentos
