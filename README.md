@@ -62,9 +62,7 @@ Este solução foi criada apenas para uso pessoal e pode ou não funcionar com o
 #### Letras
  - **ç** = *alt + c*
  - **Ç** = *alt + shift + c*
- 
-#### Outros
- - **Ctrl + l** = *alt + l*
+
  
 ## Instalação
 O programa Autokey apresenta formas diferentes de instalação, configuração e criação dos scripts.
