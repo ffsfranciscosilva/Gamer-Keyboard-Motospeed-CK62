@@ -1,8 +1,8 @@
 {
-    "usageCount": 4, 
+    "usageCount": 11, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "05 pipe", 
+    "description": "02 colchete abrir", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,10 +12,9 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "]", 
+        "hotKey": "\ufe51", 
         "modifiers": [
-            "<alt>", 
-            "<shift>"
+            "<alt>"
         ]
     }, 
     "modes": [

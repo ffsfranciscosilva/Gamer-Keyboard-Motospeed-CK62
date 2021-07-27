@@ -1,8 +1,8 @@
 {
-    "usageCount": 33, 
+    "usageCount": 6, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "03 barra", 
+    "description": "06 pipe", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,9 +12,10 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "<up>", 
+        "hotKey": "]", 
         "modifiers": [
-            "<alt>"
+            "<alt>", 
+            "<shift>"
         ]
     }, 
     "modes": [

@@ -1,8 +1,8 @@
 {
-    "usageCount": 19, 
+    "usageCount": 7, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "01 aspas duplas", 
+    "description": "03 barra invertida", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,10 +12,9 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "\ufe53", 
+        "hotKey": "]", 
         "modifiers": [
-            "<alt>", 
-            "<shift>"
+            "<alt>"
         ]
     }, 
     "modes": [

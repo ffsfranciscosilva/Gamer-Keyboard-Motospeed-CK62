@@ -39,12 +39,9 @@ Este solução foi criada apenas para uso pessoal e pode ou não funcionar com o
  - **PrintScreen** = *alt + ctrl + ´*
  
 ### Digitação
-#### Acentos
  - **:** = *alt + shift + ç*
  - **;** = *alt + ç*
  - **?** = *alt + shift + up*
- 
-#### Delimitadores
  - **"** = *alt + shift + \~*
  - **'** = *alt + \~*
  - **[** = *alt + ´*

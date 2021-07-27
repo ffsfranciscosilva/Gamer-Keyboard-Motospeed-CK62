@@ -1,8 +1,8 @@
 {
-    "usageCount": 6, 
+    "usageCount": 3, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "03 barra invertida", 
+    "description": "04 chave abrir", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,9 +12,10 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "]", 
+        "hotKey": "\ufe51", 
         "modifiers": [
-            "<alt>"
+            "<alt>", 
+            "<shift>"
         ]
     }, 
     "modes": [

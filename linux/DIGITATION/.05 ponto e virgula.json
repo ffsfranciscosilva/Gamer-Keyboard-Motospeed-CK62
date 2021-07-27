@@ -1,8 +1,8 @@
 {
-    "usageCount": 17, 
+    "usageCount": 15, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "04 interrogacao", 
+    "description": "05 ponto e virgula", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,10 +12,9 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "<up>", 
+        "hotKey": "\u00e7", 
         "modifiers": [
-            "<alt>", 
-            "<shift>"
+            "<alt>"
         ]
     }, 
     "modes": [
