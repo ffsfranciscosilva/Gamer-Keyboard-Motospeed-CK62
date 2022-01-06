@@ -74,6 +74,4 @@ Agora precisamos apenas baixar esse repositório e usar a pasta `linux` como for
  
 https://medium.com/@marcelxsilva/esta-publicacao-ser%C3%A1-atualizada-quando-houver-novos-recursos-no-teclado-89afed3fa372
  
-https://github.com/autokey/autokey
- 
-https://www.autohotkey.com/
+https://github.com/autokey/autokeys
